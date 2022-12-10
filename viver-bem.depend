@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670548156 source:/home/joao/Documentos/Projetos/viver-bem/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
